@@ -54,6 +54,14 @@ Me chamo Guilherma Batista Carvalho, tenho 20 anos e sou natural de São Paulo. 
     title="git"
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+
+<img align="left" 
+    alt="Django" 
+    title="Django"
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
+
                 
 
 <br/>
