@@ -2,7 +2,7 @@
 
 **`Desenvolvedor back end`**
 
-Me chamo Guilherma Batista Carvalho, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio na anisio, Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera.
+Me chamo Guilherme Batista Carvalho, tenho 21 anos e sou natural de São Paulo. Concluí o ensino médio na anisio, Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera.
 
 ----
 
