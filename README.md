@@ -62,6 +62,18 @@ Me chamo Guilherme Batista Carvalho, tenho 21 anos e sou natural de São Paulo. 
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
 
+<img align="left" 
+    alt="Pandas" 
+    title="Pandas"
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+    
+<img align="left" 
+    alt="Postgresql" 
+    title="Postgresql"
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+
                 
 
 <br/>
